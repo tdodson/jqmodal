@@ -14,7 +14,7 @@ $(document).ready(function(){
 		resizable: false,
 		autoOpen: true,
 		width: 750,
-		height: 750,
+		height: 500,
 		buttons: { "I accept the terms": function() { 
 			$(this).dialog("close");} //end empty function
 			} //end buttons
